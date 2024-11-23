@@ -1,8 +1,5 @@
 # Password-Strength-Checker
 
-## Title
-**Password Strength Checker**
-
 ## Description
 The Password Strength Checker is a Python-based utility designed to evaluate the strength of a password based on key security criteria. It ensures that passwords are robust and adhere to security best practices. Users can enter a password to receive feedback on its strength and suggestions for improvement.
 
